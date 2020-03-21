@@ -1,0 +1,8 @@
+{
+    "db":{
+        "connection-string":"mongodb://localhost:27017/task-management"
+    },
+    "jwt":{
+        "secret":"abcxyz"
+    }
+}
